@@ -1,0 +1,2365 @@
+   2024-09-30 18
+*** inglaterra ***
+
+Crystal Palace: 21.19
+Liverpool: 52.72
+draw : 26.09
+ 
+Brentford: 50.38
+Wolves: 22.29
+draw : 27.33
+ 
+Man City: 71.34
+Fulham: 7.10
+draw : 21.56
+ 
+West Ham: 43.61
+Ipswich: 26.22
+draw : 30.16
+ 
+Arsenal: 95.12
+Southampton: 0.23
+draw : 4.17
+ 
+Leicester: 41.21
+Bournemouth: 30.16
+draw : 28.63
+ 
+Everton: 17.05
+Newcastle: 58.05
+draw : 24.90
+ 
+Aston Villa: 43.21
+Man United: 32.32
+draw : 24.47
+ 
+Chelsea: 63.94
+Nott'm Forest: 15.18
+draw : 20.85
+ 
+Brighton: 24.18
+Tottenham: 45.47
+draw : 30.35
+ 
+   2024-09-30 18
+*** italia ***
+
+Napoli: 52.51
+Como: 22.08
+draw : 25.40
+ 
+Verona: 53.38
+Venezia: 16.10
+draw : 30.52
+ 
+Udinese: 53.34
+Lecce: 12.73
+draw : 33.94
+ 
+Atalanta: 60.42
+Genoa: 16.09
+draw : 23.48
+ 
+Inter: 65.37
+Torino: 9.92
+draw : 24.71
+ 
+Juventus: 68.46
+Cagliari: 8.77
+draw : 22.76
+ 
+Bologna: 69.05
+Parma: 11.95
+draw : 18.96
+ 
+Lazio: 40.99
+Empoli: 22.26
+draw : 36.75
+ 
+Monza: 18.61
+Roma: 54.15
+draw : 27.24
+ 
+Fiorentina: 33.85
+Milan: 43.04
+draw : 23.10
+ 
+   2024-10-06 09
+*** inglaterra ***
+
+Crystal Palace: 21.19
+Liverpool: 52.72
+draw : 26.09
+ 
+Brentford: 50.38
+Wolves: 22.29
+draw : 27.33
+ 
+Man City: 71.34
+Fulham: 7.10
+draw : 21.56
+ 
+West Ham: 43.61
+Ipswich: 26.23
+draw : 30.16
+ 
+Arsenal: 95.12
+Southampton: 0.23
+draw : 4.17
+ 
+Leicester: 41.21
+Bournemouth: 30.17
+draw : 28.63
+ 
+Everton: 17.05
+Newcastle: 58.05
+draw : 24.90
+ 
+Aston Villa: 43.21
+Man United: 32.32
+draw : 24.47
+ 
+Chelsea: 63.94
+Nott'm Forest: 15.18
+draw : 20.85
+ 
+Brighton: 24.19
+Tottenham: 45.47
+draw : 30.35
+ 
+   2024-10-07 18
+*** inglaterra ***
+
+Tottenham: 63.16
+West Ham: 16.04
+draw : 20.76
+ 
+Fulham: 42.04
+Aston Villa: 29.32
+draw : 28.64
+ 
+Ipswich: 28.87
+Everton: 34.60
+draw : 36.52
+ 
+Man United: 44.75
+Brentford: 28.91
+draw : 26.34
+ 
+Newcastle: 55.66
+Brighton: 19.28
+draw : 25.05
+ 
+Southampton: 10.14
+Leicester: 62.22
+draw : 27.64
+ 
+Bournemouth: 4.77
+Arsenal: 77.79
+draw : 17.42
+ 
+Wolves: 4.46
+Man City: 80.80
+draw : 14.68
+ 
+Liverpool: 53.43
+Chelsea: 22.91
+draw : 23.64
+ 
+Nott'm Forest: 31.38
+Crystal Palace: 36.62
+draw : 32.00
+ 
+   2024-10-07 18
+*** italia ***
+
+Genoa: 22.64
+Bologna: 44.64
+draw : 32.72
+ 
+Como: 46.42
+Parma: 30.22
+draw : 23.35
+ 
+Milan: 59.09
+Udinese: 16.58
+draw : 24.32
+ 
+Juventus: 41.89
+Lazio: 22.92
+draw : 35.20
+ 
+Empoli: 28.68
+Napoli: 33.82
+draw : 37.51
+ 
+Lecce: 12.50
+Fiorentina: 58.43
+draw : 29.06
+ 
+Venezia: 10.60
+Atalanta: 67.94
+draw : 21.45
+ 
+Cagliari: 23.07
+Torino: 46.07
+draw : 30.86
+ 
+Roma: 20.53
+Inter: 52.76
+draw : 26.70
+ 
+Verona: 49.86
+Monza: 20.40
+draw : 29.73
+ 
+   2024-10-07 18
+*** primera ***
+
+Alaves: 73.73
+Valladolid: 6.93
+draw : 19.34
+ 
+Ath Bilbao: 62.85
+Espanol: 12.76
+draw : 24.40
+ 
+Osasuna: 40.24
+Betis: 31.36
+draw : 28.40
+ 
+Girona: 57.35
+Sociedad: 16.63
+draw : 26.01
+ 
+Celta: 15.64
+Real Madrid: 63.97
+draw : 20.38
+ 
+Mallorca: 41.93
+Vallecano: 19.45
+draw : 38.61
+ 
+Ath Madrid: 75.52
+Leganes: 4.72
+draw : 19.76
+ 
+Villarreal: 69.78
+Getafe: 11.26
+draw : 18.95
+ 
+Barcelona: 79.45
+Sevilla: 7.20
+draw : 13.23
+ 
+Valencia: 47.66
+Las Palmas: 20.19
+draw : 32.16
+ 
+   2024-10-21 18
+*** inglaterra ***
+
+Leicester: 39.13
+Nott'm Forest: 31.31
+draw : 29.56
+ 
+Brentford: 68.92
+Ipswich: 10.51
+draw : 20.56
+ 
+Brighton: 46.57
+Wolves: 23.01
+draw : 30.41
+ 
+Aston Villa: 49.30
+Bournemouth: 24.37
+draw : 26.33
+ 
+Man City: 93.03
+Southampton: 0.80
+draw : 5.74
+ 
+Everton: 23.43
+Fulham: 42.31
+draw : 34.26
+ 
+West Ham: 27.43
+Man United: 47.26
+draw : 25.31
+ 
+Crystal Palace: 34.32
+Tottenham: 38.68
+draw : 27.00
+ 
+Chelsea: 54.11
+Newcastle: 25.99
+draw : 19.84
+ 
+Arsenal: 55.88
+Liverpool: 16.67
+draw : 27.45
+ 
+   2024-10-21 18
+*** italia ***
+
+Udinese: 47.11
+Cagliari: 22.74
+draw : 30.16
+ 
+Torino: 47.61
+Como: 24.11
+draw : 28.28
+ 
+Napoli: 71.75
+Lecce: 6.07
+draw : 22.18
+ 
+Bologna: 40.91
+Milan: 32.19
+draw : 26.89
+ 
+Atalanta: 68.57
+Verona: 12.73
+draw : 18.65
+ 
+Parma: 31.87
+Empoli: 32.66
+draw : 35.47
+ 
+Monza: 47.60
+Venezia: 17.88
+draw : 34.52
+ 
+Lazio: 50.41
+Genoa: 20.35
+draw : 29.23
+ 
+Inter: 49.78
+Juventus: 17.57
+draw : 32.65
+ 
+Fiorentina: 40.56
+Roma: 32.41
+draw : 27.03
+ 
+   2024-10-21 18
+*** primera ***
+
+Espanol: 36.10
+Sevilla: 35.56
+draw : 28.34
+ 
+Valladolid: 13.96
+Villarreal: 68.20
+draw : 17.80
+ 
+Vallecano: 32.30
+Alaves: 32.29
+draw : 35.41
+ 
+Las Palmas: 19.39
+Girona: 57.16
+draw : 23.45
+ 
+Real Madrid: 56.20
+Barcelona: 22.35
+draw : 21.44
+ 
+Leganes: 22.19
+Celta: 47.92
+draw : 29.89
+ 
+Getafe: 38.48
+Valencia: 25.03
+draw : 36.49
+ 
+Betis: 27.25
+Ath Madrid: 42.51
+draw : 30.24
+ 
+Sociedad: 48.46
+Osasuna: 21.50
+draw : 30.04
+ 
+Mallorca: 27.52
+Ath Bilbao: 36.66
+draw : 35.82
+ 
+   2024-10-28 17
+*** inglaterra ***
+
+Newcastle: 12.24
+Arsenal: 67.97
+draw : 19.76
+ 
+Bournemouth: 8.68
+Man City: 69.15
+draw : 22.16
+ 
+Ipswich: 24.32
+Leicester: 51.97
+draw : 23.71
+ 
+Liverpool: 66.16
+Brighton: 10.71
+draw : 23.12
+ 
+Nott'm Forest: 50.62
+West Ham: 22.54
+draw : 26.84
+ 
+Southampton: 19.79
+Everton: 42.40
+draw : 37.80
+ 
+Wolves: 25.50
+Crystal Palace: 46.45
+draw : 28.05
+ 
+Tottenham: 48.40
+Aston Villa: 27.69
+draw : 23.90
+ 
+Man United: 27.64
+Chelsea: 49.04
+draw : 23.31
+ 
+Fulham: 44.45
+Brentford: 28.45
+draw : 27.10
+ 
+   2024-10-28 17
+*** italia ***
+
+Cagliari: 16.68
+Bologna: 58.31
+draw : 25.00
+ 
+Lecce: 17.61
+Verona: 49.79
+draw : 32.60
+ 
+Milan: 46.33
+Napoli: 27.67
+draw : 26.00
+ 
+Empoli: 14.90
+Inter: 54.66
+draw : 30.44
+ 
+Venezia: 23.16
+Udinese: 40.33
+draw : 36.52
+ 
+Atalanta: 74.16
+Monza: 9.12
+draw : 16.66
+ 
+Juventus: 59.91
+Parma: 14.19
+draw : 25.89
+ 
+Genoa: 24.28
+Fiorentina: 49.02
+draw : 26.70
+ 
+Roma: 43.04
+Torino: 25.79
+draw : 31.17
+ 
+Como: 22.92
+Lazio: 49.10
+draw : 27.97
+ 
+   2024-10-28 17
+*** primera ***
+
+Alaves: 39.21
+Mallorca: 26.32
+draw : 34.46
+ 
+Osasuna: 70.19
+Valladolid: 11.14
+draw : 18.65
+ 
+Girona: 66.49
+Leganes: 11.50
+draw : 22.01
+ 
+Villarreal: 65.15
+Vallecano: 13.08
+draw : 21.77
+ 
+Valencia: 13.48
+Real Madrid: 62.84
+draw : 23.68
+ 
+Ath Madrid: 75.03
+Las Palmas: 7.60
+draw : 17.36
+ 
+Barcelona: 91.38
+Espanol: 2.12
+draw : 5.51
+ 
+Sevilla: 40.00
+Sociedad: 27.56
+draw : 32.44
+ 
+Ath Bilbao: 51.12
+Betis: 20.78
+draw : 28.11
+ 
+Celta: 52.19
+Getafe: 21.06
+draw : 26.74
+ 
+   2024-11-07 20
+*** inglaterra ***
+
+Wolves: 56.03
+Southampton: 16.00
+draw : 27.97
+ 
+West Ham: 42.34
+Everton: 26.97
+draw : 30.69
+ 
+Crystal Palace: 40.53
+Fulham: 29.50
+draw : 29.97
+ 
+Brentford: 42.35
+Bournemouth: 30.76
+draw : 26.89
+ 
+Brighton: 10.71
+Man City: 65.22
+draw : 24.07
+ 
+Liverpool: 69.52
+Aston Villa: 12.25
+draw : 18.18
+ 
+Tottenham: 77.35
+Ipswich: 7.71
+draw : 14.85
+ 
+Man United: 53.71
+Leicester: 22.21
+draw : 24.07
+ 
+Nott'm Forest: 33.11
+Newcastle: 39.65
+draw : 27.24
+ 
+Chelsea: 18.69
+Arsenal: 58.21
+draw : 23.09
+ 
+   2024-11-07 20
+*** italia ***
+
+Genoa: 49.13
+Como: 23.71
+draw : 27.16
+ 
+Lecce: 14.66
+Empoli: 46.15
+draw : 39.19
+ 
+Venezia: 34.67
+Parma: 36.55
+draw : 28.79
+ 
+Cagliari: 15.54
+Milan: 66.37
+draw : 18.05
+ 
+Juventus: 47.99
+Torino: 19.14
+draw : 32.87
+ 
+Atalanta: 68.81
+Udinese: 11.81
+draw : 19.36
+ 
+Fiorentina: 65.83
+Verona: 14.75
+draw : 19.40
+ 
+Roma: 32.02
+Bologna: 39.00
+draw : 28.98
+ 
+Monza: 19.96
+Lazio: 52.62
+draw : 27.41
+ 
+Inter: 61.81
+Napoli: 15.25
+draw : 22.93
+ 
+   2024-11-07 20
+*** primera ***
+
+Vallecano: 42.60
+Las Palmas: 23.85
+draw : 33.55
+ 
+Real Madrid: 78.94
+Osasuna: 7.22
+draw : 13.78
+ 
+Villarreal: 62.56
+Alaves: 17.33
+draw : 20.10
+ 
+Espanol: 37.20
+Valencia: 30.92
+draw : 31.88
+ 
+Leganes: 38.59
+Sevilla: 32.76
+draw : 28.65
+ 
+Betis: 52.19
+Celta: 22.77
+draw : 25.04
+ 
+Mallorca: 21.70
+Ath Madrid: 43.09
+draw : 35.21
+ 
+Getafe: 24.22
+Girona: 47.47
+draw : 28.31
+ 
+Valladolid: 13.82
+Ath Bilbao: 61.11
+draw : 25.07
+ 
+Sociedad: 19.92
+Barcelona: 55.18
+draw : 24.90
+ 
+   2024-11-13 18
+*** inglaterra ***
+
+Leicester: 15.80
+Chelsea: 65.51
+draw : 18.62
+ 
+Aston Villa: 42.09
+Crystal Palace: 31.42
+draw : 26.49
+ 
+Fulham: 55.69
+Wolves: 18.50
+draw : 25.80
+ 
+Arsenal: 74.98
+Nott'm Forest: 6.43
+draw : 18.58
+ 
+Bournemouth: 37.20
+Brighton: 30.49
+draw : 32.31
+ 
+Everton: 26.75
+Brentford: 42.75
+draw : 30.50
+ 
+Man City: 69.68
+Tottenham: 10.74
+draw : 19.56
+ 
+Southampton: 4.31
+Liverpool: 78.84
+draw : 16.84
+ 
+Ipswich: 21.19
+Man United: 53.06
+draw : 25.75
+ 
+Newcastle: 71.41
+West Ham: 11.96
+draw : 16.53
+ 
+   2024-11-22 19
+*** inglaterra ***
+
+Leicester: 15.80
+Chelsea: 65.51
+draw : 18.62
+ 
+Arsenal: 74.98
+Nott'm Forest: 6.43
+draw : 18.58
+ 
+Fulham: 55.68
+Wolves: 18.51
+draw : 25.81
+ 
+Aston Villa: 42.08
+Crystal Palace: 31.43
+draw : 26.49
+ 
+Bournemouth: 37.20
+Brighton: 30.49
+draw : 32.31
+ 
+Everton: 26.74
+Brentford: 42.75
+draw : 30.50
+ 
+Man City: 69.68
+Tottenham: 10.73
+draw : 19.56
+ 
+Southampton: 4.31
+Liverpool: 78.83
+draw : 16.84
+ 
+Ipswich: 21.19
+Man United: 53.05
+draw : 25.75
+ 
+Newcastle: 71.41
+West Ham: 11.96
+draw : 16.53
+ 
+   2024-11-22 19
+*** italia ***
+
+Verona: 9.42
+Inter: 74.20
+draw : 16.33
+ 
+Milan: 34.50
+Juventus: 37.99
+draw : 27.52
+ 
+Parma: 16.34
+Atalanta: 65.00
+draw : 18.62
+ 
+Genoa: 48.03
+Cagliari: 24.86
+draw : 27.10
+ 
+Torino: 44.39
+Monza: 22.22
+draw : 33.40
+ 
+Como: 15.06
+Fiorentina: 65.43
+draw : 19.49
+ 
+Napoli: 45.47
+Roma: 26.97
+draw : 27.56
+ 
+Lazio: 37.23
+Bologna: 32.50
+draw : 30.27
+ 
+Empoli: 35.68
+Udinese: 26.22
+draw : 38.10
+ 
+Venezia: 47.72
+Lecce: 17.82
+draw : 34.46
+ 
+   2024-11-22 19
+*** primera ***
+
+Getafe: 52.12
+Valladolid: 17.75
+draw : 30.13
+ 
+Valencia: 30.64
+Betis: 37.21
+draw : 32.15
+ 
+Ath Madrid: 67.04
+Alaves: 11.16
+draw : 21.80
+ 
+Girona: 75.23
+Espanol: 9.26
+draw : 15.48
+ 
+Las Palmas: 34.59
+Mallorca: 31.20
+draw : 34.21
+ 
+Celta: 17.56
+Barcelona: 64.94
+draw : 17.45
+ 
+Osasuna: 33.66
+Villarreal: 44.00
+draw : 22.33
+ 
+Sevilla: 49.04
+Vallecano: 20.42
+draw : 30.54
+ 
+Leganes: 13.47
+Real Madrid: 65.59
+draw : 20.93
+ 
+Ath Bilbao: 46.44
+Sociedad: 20.99
+draw : 32.58
+ 
+   2024-11-28 20
+*** inglaterra ***
+
+Brighton: 61.64
+Southampton: 11.30
+draw : 27.06
+ 
+Wolves: 36.18
+Bournemouth: 35.26
+draw : 28.56
+ 
+Nott'm Forest: 55.50
+Ipswich: 17.55
+draw : 26.95
+ 
+Brentford: 54.72
+Leicester: 22.39
+draw : 22.88
+ 
+Crystal Palace: 34.09
+Newcastle: 39.40
+draw : 26.51
+ 
+West Ham: 5.33
+Arsenal: 80.15
+draw : 14.46
+ 
+Man United: 52.82
+Everton: 16.29
+draw : 30.89
+ 
+Chelsea: 62.09
+Aston Villa: 18.70
+draw : 19.15
+ 
+Tottenham: 51.32
+Fulham: 22.79
+draw : 25.89
+ 
+Liverpool: 34.50
+Man City: 35.91
+draw : 29.60
+ 
+   2024-11-28 20
+*** italia ***
+
+Cagliari: 38.25
+Verona: 36.95
+draw : 24.80
+ 
+Como: 32.15
+Monza: 37.53
+draw : 30.32
+ 
+Milan: 51.53
+Empoli: 20.16
+draw : 28.31
+ 
+Bologna: 64.57
+Venezia: 11.38
+draw : 24.05
+ 
+Udinese: 37.46
+Genoa: 29.46
+draw : 33.08
+ 
+Torino: 25.84
+Napoli: 40.27
+draw : 33.89
+ 
+Parma: 20.60
+Lazio: 54.86
+draw : 24.54
+ 
+Fiorentina: 23.05
+Inter: 53.07
+draw : 23.87
+ 
+Lecce: 8.24
+Juventus: 63.49
+draw : 28.27
+ 
+Roma: 24.20
+Atalanta: 53.72
+draw : 22.07
+ 
+   2024-11-28 20
+*** primera ***
+
+Mallorca: 42.06
+Valencia: 23.22
+draw : 34.72
+ 
+Barcelona: 88.60
+Las Palmas: 3.55
+draw : 7.26
+ 
+Alaves: 49.96
+Leganes: 22.12
+draw : 27.91
+ 
+Espanol: 31.23
+Celta: 44.68
+draw : 24.10
+ 
+Valladolid: 9.91
+Ath Madrid: 69.32
+draw : 20.77
+ 
+Villarreal: 48.17
+Girona: 31.12
+draw : 20.70
+ 
+Real Madrid: 80.00
+Getafe: 5.39
+draw : 14.59
+ 
+Vallecano: 21.51
+Ath Bilbao: 44.82
+draw : 33.67
+ 
+Sociedad: 42.35
+Betis: 25.74
+draw : 31.92
+ 
+Sevilla: 45.41
+Osasuna: 28.39
+draw : 26.19
+ 
+   2024-12-02 20
+*** inglaterra ***
+
+Ipswich: 20.94
+Crystal Palace: 50.19
+draw : 28.87
+ 
+Leicester: 38.38
+West Ham: 36.16
+draw : 25.45
+ 
+Southampton: 8.02
+Chelsea: 73.61
+draw : 18.33
+ 
+Newcastle: 24.21
+Liverpool: 50.59
+draw : 25.19
+ 
+Everton: 29.64
+Wolves: 37.31
+draw : 33.05
+ 
+Man City: 67.48
+Nott'm Forest: 9.95
+draw : 22.57
+ 
+Arsenal: 73.99
+Man United: 7.63
+draw : 18.36
+ 
+Aston Villa: 44.91
+Brentford: 31.72
+draw : 23.37
+ 
+Fulham: 40.48
+Brighton: 27.21
+draw : 32.30
+ 
+Bournemouth: 28.52
+Tottenham: 44.26
+draw : 27.22
+ 
+   2024-12-02 20
+*** italia ***
+
+Inter: 78.69
+Parma: 7.51
+draw : 13.69
+ 
+Atalanta: 56.26
+Milan: 23.80
+draw : 19.91
+ 
+Genoa: 34.02
+Torino: 31.61
+draw : 34.37
+ 
+Juventus: 40.03
+Bologna: 27.09
+draw : 32.88
+ 
+Roma: 64.79
+Lecce: 10.41
+draw : 24.80
+ 
+Fiorentina: 72.37
+Cagliari: 11.00
+draw : 16.57
+ 
+Verona: 30.81
+Empoli: 35.70
+draw : 33.49
+ 
+Venezia: 34.59
+Como: 34.61
+draw : 30.80
+ 
+Napoli: 38.42
+Lazio: 30.95
+draw : 30.64
+ 
+Monza: 32.63
+Udinese: 33.49
+draw : 33.89
+ 
+   2024-12-02 20
+*** primera ***
+
+Celta: 44.41
+Mallorca: 26.51
+draw : 29.08
+ 
+Las Palmas: 67.18
+Valladolid: 12.23
+draw : 20.58
+ 
+Betis: 22.14
+Barcelona: 56.47
+draw : 21.38
+ 
+Valencia: 44.84
+Vallecano: 21.55
+draw : 33.61
+ 
+Girona: 27.53
+Real Madrid: 48.89
+draw : 23.57
+ 
+Leganes: 27.99
+Sociedad: 37.24
+draw : 34.77
+ 
+Ath Bilbao: 49.70
+Villarreal: 26.58
+draw : 23.72
+ 
+Osasuna: 46.79
+Alaves: 26.32
+draw : 26.89
+ 
+Ath Madrid: 69.15
+Sevilla: 10.47
+draw : 20.38
+ 
+Getafe: 44.16
+Espanol: 25.75
+draw : 30.10
+ 
+   2024-12-05 17
+*** inglaterra ***
+
+Everton: 10.60
+Liverpool: 64.41
+draw : 24.99
+ 
+Brentford: 32.48
+Newcastle: 44.43
+draw : 23.08
+ 
+Crystal Palace: 16.64
+Man City: 56.60
+draw : 26.76
+ 
+Aston Villa: 71.12
+Southampton: 9.42
+draw : 19.44
+ 
+Man United: 46.13
+Nott'm Forest: 24.08
+draw : 29.79
+ 
+Fulham: 10.73
+Arsenal: 65.65
+draw : 23.62
+ 
+Leicester: 30.30
+Brighton: 40.33
+draw : 29.37
+ 
+Ipswich: 22.78
+Bournemouth: 46.77
+draw : 30.45
+ 
+Tottenham: 36.16
+Chelsea: 40.05
+draw : 23.77
+ 
+West Ham: 43.11
+Wolves: 32.29
+draw : 24.59
+ 
+   2024-12-05 17
+*** italia ***
+
+Inter: 78.69
+Parma: 7.51
+draw : 13.69
+ 
+Atalanta: 56.25
+Milan: 23.80
+draw : 19.92
+ 
+Genoa: 34.02
+Torino: 31.61
+draw : 34.37
+ 
+Juventus: 40.03
+Bologna: 27.09
+draw : 32.88
+ 
+Roma: 64.79
+Lecce: 10.41
+draw : 24.80
+ 
+Fiorentina: 72.37
+Cagliari: 11.00
+draw : 16.57
+ 
+Verona: 30.81
+Empoli: 35.70
+draw : 33.49
+ 
+Venezia: 34.58
+Como: 34.61
+draw : 30.80
+ 
+Napoli: 38.41
+Lazio: 30.95
+draw : 30.64
+ 
+Monza: 32.63
+Udinese: 33.49
+draw : 33.89
+ 
+   2024-12-12 19
+*** inglaterra ***
+
+Arsenal: 80.85
+Everton: 3.51
+draw : 15.62
+ 
+Liverpool: 63.56
+Fulham: 13.55
+draw : 22.88
+ 
+Newcastle: 67.72
+Leicester: 14.53
+draw : 17.68
+ 
+Wolves: 51.92
+Ipswich: 21.41
+draw : 26.67
+ 
+Nott'm Forest: 39.84
+Aston Villa: 32.06
+draw : 28.11
+ 
+Brighton: 34.78
+Crystal Palace: 33.74
+draw : 31.48
+ 
+Man City: 67.52
+Man United: 11.62
+draw : 20.84
+ 
+Chelsea: 68.15
+Brentford: 15.11
+draw : 16.60
+ 
+Southampton: 10.70
+Tottenham: 67.29
+draw : 22.00
+ 
+Bournemouth: 53.16
+West Ham: 21.67
+draw : 25.17
+ 
+   2024-12-12 20
+*** italia ***
+
+Empoli: 33.66
+Torino: 27.79
+draw : 38.55
+ 
+Cagliari: 10.32
+Atalanta: 74.42
+draw : 15.16
+ 
+Udinese: 22.97
+Napoli: 45.05
+draw : 31.98
+ 
+Juventus: 68.48
+Venezia: 9.00
+draw : 22.52
+ 
+Lecce: 22.12
+Monza: 42.40
+draw : 35.48
+ 
+Bologna: 38.03
+Fiorentina: 34.33
+draw : 27.65
+ 
+Parma: 54.37
+Verona: 23.06
+draw : 22.56
+ 
+Como: 20.73
+Roma: 56.36
+draw : 22.91
+ 
+Milan: 59.38
+Genoa: 17.86
+draw : 22.75
+ 
+Lazio: 22.52
+Inter: 52.00
+draw : 25.48
+ 
+   2024-12-12 20
+*** primera ***
+
+Valladolid: 23.34
+Valencia: 47.37
+draw : 29.29
+ 
+Espanol: 35.68
+Osasuna: 38.62
+draw : 25.70
+ 
+Mallorca: 27.29
+Girona: 44.39
+draw : 28.32
+ 
+Sevilla: 43.53
+Celta: 32.02
+draw : 24.44
+ 
+Vallecano: 10.69
+Real Madrid: 66.93
+draw : 22.38
+ 
+Ath Madrid: 67.79
+Getafe: 9.70
+draw : 22.51
+ 
+Alaves: 26.46
+Ath Bilbao: 44.05
+draw : 29.48
+ 
+Sociedad: 56.73
+Las Palmas: 16.33
+draw : 26.94
+ 
+Villarreal: 56.92
+Betis: 22.23
+draw : 20.84
+ 
+Barcelona: 87.41
+Leganes: 3.90
+draw : 8.38
+ 
+   2024-12-19 20
+*** inglaterra ***
+
+Aston Villa: 16.72
+Man City: 60.60
+draw : 22.68
+ 
+Ipswich: 16.26
+Newcastle: 60.86
+draw : 22.87
+ 
+Brentford: 42.06
+Nott'm Forest: 30.78
+draw : 27.16
+ 
+West Ham: 33.76
+Brighton: 37.79
+draw : 28.45
+ 
+Crystal Palace: 12.53
+Arsenal: 62.74
+draw : 24.72
+ 
+Fulham: 73.14
+Southampton: 6.80
+draw : 20.05
+ 
+Leicester: 41.02
+Wolves: 34.07
+draw : 24.90
+ 
+Everton: 14.98
+Chelsea: 59.61
+draw : 25.40
+ 
+Man United: 47.29
+Bournemouth: 24.58
+draw : 28.13
+ 
+Tottenham: 28.22
+Liverpool: 46.54
+draw : 25.23
+ 
+   2024-12-19 20
+*** italia ***
+
+Verona: 17.87
+Milan: 62.91
+draw : 19.19
+ 
+Torino: 24.57
+Bologna: 42.79
+draw : 32.65
+ 
+Genoa: 23.52
+Napoli: 45.18
+draw : 31.30
+ 
+Lecce: 11.83
+Lazio: 63.33
+draw : 24.84
+ 
+Roma: 49.31
+Parma: 27.53
+draw : 23.15
+ 
+Venezia: 35.33
+Cagliari: 36.88
+draw : 27.79
+ 
+Atalanta: 62.66
+Empoli: 13.56
+draw : 23.77
+ 
+Monza: 16.84
+Juventus: 54.73
+draw : 28.43
+ 
+Fiorentina: 59.36
+Udinese: 16.44
+draw : 24.20
+ 
+Inter: 86.53
+Como: 3.90
+draw : 9.31
+ 
+   2024-12-19 20
+*** primera ***
+
+Girona: 84.68
+Valladolid: 4.75
+draw : 10.44
+ 
+Getafe: 33.99
+Mallorca: 28.52
+draw : 37.49
+ 
+Celta: 35.54
+Sociedad: 34.34
+draw : 30.12
+ 
+Osasuna: 27.81
+Ath Bilbao: 44.21
+draw : 27.98
+ 
+Barcelona: 52.78
+Ath Madrid: 25.08
+draw : 22.13
+ 
+Valencia: 37.32
+Alaves: 31.96
+draw : 30.72
+ 
+Real Madrid: 80.20
+Sevilla: 6.78
+draw : 12.96
+ 
+Las Palmas: 50.25
+Espanol: 23.90
+draw : 25.85
+ 
+Leganes: 28.58
+Villarreal: 46.84
+draw : 24.58
+ 
+Betis: 53.34
+Vallecano: 18.54
+draw : 28.12
+ 
+   2024-12-24 13
+*** inglaterra ***
+
+Leicester: 10.58
+Chelsea: 73.65
+draw : 15.65
+ 
+Arsenal: 73.36
+Nott'm Forest: 6.96
+draw : 19.67
+ 
+Aston Villa: 39.90
+Crystal Palace: 33.09
+draw : 27.01
+ 
+Bournemouth: 41.78
+Brighton: 26.78
+draw : 31.44
+ 
+Everton: 27.52
+Brentford: 40.45
+draw : 32.02
+ 
+Fulham: 54.76
+Wolves: 19.71
+draw : 25.52
+ 
+Man City: 61.27
+Tottenham: 16.80
+draw : 21.91
+ 
+Southampton: 3.54
+Liverpool: 83.25
+draw : 13.15
+ 
+Ipswich: 16.90
+Man United: 56.83
+draw : 26.27
+ 
+Newcastle: 67.82
+West Ham: 14.04
+draw : 18.07
+ 
+   2024-12-24 14
+*** inglaterra ***
+
+Leicester: 9.44
+Chelsea: 75.48
+draw : 14.93
+ 
+Arsenal: 70.00
+Nott'm Forest: 8.34
+draw : 21.65
+ 
+Aston Villa: 39.57
+Crystal Palace: 32.86
+draw : 27.57
+ 
+Bournemouth: 43.16
+Brighton: 26.04
+draw : 30.80
+ 
+Everton: 28.07
+Brentford: 40.03
+draw : 31.90
+ 
+Fulham: 55.22
+Wolves: 19.85
+draw : 24.93
+ 
+Man City: 56.94
+Tottenham: 20.29
+draw : 22.76
+ 
+Southampton: 3.46
+Liverpool: 83.67
+draw : 12.81
+ 
+Ipswich: 16.98
+Man United: 56.29
+draw : 26.73
+ 
+Newcastle: 66.32
+West Ham: 14.55
+draw : 19.09
+ 
+   2024-12-27 12
+*** inglaterra ***
+
+Leicester: 10.56%,     Avg Shots (Last 5 Matches): 3.20
+Chelsea: 73.58%,     Avg Shots (Last 5 Matches): 8.40
+Draw: 15.73%
+
+Aston Villa: 37.71%,     Avg Shots (Last 5 Matches): 4.80
+Crystal Palace: 34.13%,     Avg Shots (Last 5 Matches): 4.20
+Draw: 28.16%
+
+Fulham: 55.29%,     Avg Shots (Last 5 Matches): 3.80
+Wolves: 19.69%,     Avg Shots (Last 5 Matches): 4.20
+Draw: 25.02%
+
+Arsenal: 68.53%,     Avg Shots (Last 5 Matches): 5.60
+Nott'm Forest: 8.80%,     Avg Shots (Last 5 Matches): 4.20
+Draw: 22.66%
+
+Bournemouth: 42.77%,     Avg Shots (Last 5 Matches): 6.40
+Brighton: 26.03%,     Avg Shots (Last 5 Matches): 5.20
+Draw: 31.19%
+
+Everton: 29.31%,     Avg Shots (Last 5 Matches): 2.60
+Brentford: 38.74%,     Avg Shots (Last 5 Matches): 4.40
+Draw: 31.95%
+
+Man City: 56.77%,     Avg Shots (Last 5 Matches): 5.00
+Tottenham: 20.21%,     Avg Shots (Last 5 Matches): 5.40
+Draw: 23.01%
+
+Southampton: 3.21%,     Avg Shots (Last 5 Matches): 2.60
+Liverpool: 83.78%,     Avg Shots (Last 5 Matches): 7.00
+Draw: 12.95%
+
+Ipswich: 18.33%,     Avg Shots (Last 5 Matches): 3.40
+Man United: 54.11%,     Avg Shots (Last 5 Matches): 4.60
+Draw: 27.56%
+
+Newcastle: 67.65%,     Avg Shots (Last 5 Matches): 7.00
+West Ham: 13.49%,     Avg Shots (Last 5 Matches): 4.60
+Draw: 18.81%
+
+   2024-12-27 12
+*** inglaterra ***
+
+Leicester: 10.56%,     Avg Shots: 3.20
+Chelsea: 73.58%,     Avg Shots: 8.40
+Draw: 15.73%
+
+Aston Villa: 37.71%,     Avg Shots: 4.80
+Crystal Palace: 34.13%,     Avg Shots: 4.20
+Draw: 28.16%
+
+Fulham: 55.29%,     Avg Shots: 3.80
+Wolves: 19.69%,     Avg Shots: 4.20
+Draw: 25.02%
+
+Arsenal: 68.53%,     Avg Shots: 5.60
+Nott'm Forest: 8.80%,     Avg Shots: 4.20
+Draw: 22.66%
+
+Bournemouth: 42.77%,     Avg Shots: 6.40
+Brighton: 26.03%,     Avg Shots: 5.20
+Draw: 31.19%
+
+Everton: 29.31%,     Avg Shots: 2.60
+Brentford: 38.74%,     Avg Shots: 4.40
+Draw: 31.95%
+
+Man City: 56.77%,     Avg Shots: 5.00
+Tottenham: 20.21%,     Avg Shots: 5.40
+Draw: 23.00%
+
+Southampton: 3.21%,     Avg Shots: 2.60
+Liverpool: 83.78%,     Avg Shots: 7.00
+Draw: 12.95%
+
+Ipswich: 18.34%,     Avg Shots: 3.40
+Man United: 54.10%,     Avg Shots: 4.60
+Draw: 27.56%
+
+Newcastle: 67.65%,     Avg Shots: 7.00
+West Ham: 13.50%,     Avg Shots: 4.60
+Draw: 18.81%
+
+   2024-12-27 13
+*** inglaterra ***
+
+Leicester: 10.56%,     Avg Shots: 3.20
+Chelsea: 73.58%,     Avg Shots: 8.40
+Draw: 15.73%
+
+Aston Villa: 37.71%,     Avg Shots: 4.80
+Crystal Palace: 34.13%,     Avg Shots: 4.20
+Draw: 28.16%
+
+Fulham: 55.29%,     Avg Shots: 3.80
+Wolves: 19.68%,     Avg Shots: 4.20
+Draw: 25.02%
+
+Arsenal: 68.54%,     Avg Shots: 5.60
+Nott'm Forest: 8.80%,     Avg Shots: 4.20
+Draw: 22.66%
+
+Bournemouth: 42.78%,     Avg Shots: 6.40
+Brighton: 26.03%,     Avg Shots: 5.20
+Draw: 31.19%
+
+Everton: 29.31%,     Avg Shots: 2.60
+Brentford: 38.74%,     Avg Shots: 4.40
+Draw: 31.95%
+
+Man City: 56.77%,     Avg Shots: 5.00
+Tottenham: 20.21%,     Avg Shots: 5.40
+Draw: 23.01%
+
+Southampton: 3.21%,     Avg Shots: 2.60
+Liverpool: 83.78%,     Avg Shots: 7.00
+Draw: 12.96%
+
+Ipswich: 18.33%,     Avg Shots: 3.40
+Man United: 54.11%,     Avg Shots: 4.60
+Draw: 27.56%
+
+Newcastle: 67.65%,     Avg Shots: 7.00
+West Ham: 13.49%,     Avg Shots: 4.60
+Draw: 18.81%
+
+   2024-12-27 13
+*** inglaterra ***
+
+Leicester: 10.56%,     Avg Shots: 3.2
+Chelsea: 73.58%,     Avg Shots: 8.4
+Draw: 15.73%
+
+Aston Villa: 37.71%,     Avg Shots: 4.8
+Crystal Palace: 34.13%,     Avg Shots: 4.2
+Draw: 28.16%
+
+Fulham: 55.29%,     Avg Shots: 3.8
+Wolves: 19.69%,     Avg Shots: 4.2
+Draw: 25.02%
+
+Arsenal: 68.53%,     Avg Shots: 5.6
+Nott'm Forest: 8.80%,     Avg Shots: 4.2
+Draw: 22.66%
+
+Bournemouth: 42.77%,     Avg Shots: 6.4
+Brighton: 26.03%,     Avg Shots: 5.2
+Draw: 31.19%
+
+Everton: 29.31%,     Avg Shots: 2.6
+Brentford: 38.74%,     Avg Shots: 4.4
+Draw: 31.95%
+
+Man City: 56.77%,     Avg Shots: 5.0
+Tottenham: 20.21%,     Avg Shots: 5.4
+Draw: 23.01%
+
+Southampton: 3.21%,     Avg Shots: 2.6
+Liverpool: 83.78%,     Avg Shots: 7.0
+Draw: 12.95%
+
+Ipswich: 18.33%,     Avg Shots: 3.4
+Man United: 54.11%,     Avg Shots: 4.6
+Draw: 27.56%
+
+Newcastle: 67.65%,     Avg Shots: 7.0
+West Ham: 13.49%,     Avg Shots: 4.6
+Draw: 18.81%
+
+   2024-12-27 13
+*** inglaterra ***
+
+Leicester: 10.56%,     Avg Shots: 3.2
+Chelsea: 73.59%,     Avg Shots: 8.4
+Draw: 15.73%
+
+Aston Villa: 37.71%,     Avg Shots: 4.8
+Crystal Palace: 34.13%,     Avg Shots: 4.2
+Draw: 28.16%
+
+Fulham: 55.29%,     Avg Shots: 3.8
+Wolves: 19.69%,     Avg Shots: 4.2
+Draw: 25.02%
+
+Arsenal: 68.53%,     Avg Shots: 5.6
+Nott'm Forest: 8.80%,     Avg Shots: 4.2
+Draw: 22.66%
+
+Bournemouth: 42.77%,     Avg Shots: 6.4
+Brighton: 26.04%,     Avg Shots: 5.2
+Draw: 31.19%
+
+Everton: 29.31%,     Avg Shots: 2.6
+Brentford: 38.74%,     Avg Shots: 4.4
+Draw: 31.95%
+
+Man City: 56.77%,     Avg Shots: 5.0
+Tottenham: 20.21%,     Avg Shots: 5.4
+Draw: 23.01%
+
+Southampton: 3.21%,     Avg Shots: 2.6
+Liverpool: 83.78%,     Avg Shots: 7.0
+Draw: 12.95%
+
+Ipswich: 18.33%,     Avg Shots: 3.4
+Man United: 54.11%,     Avg Shots: 4.6
+Draw: 27.56%
+
+Newcastle: 67.65%,     Avg Shots: 7.0
+West Ham: 13.49%,     Avg Shots: 4.6
+Draw: 18.81%
+
+   2024-12-27 13
+*** inglaterra ***
+
+Leicester: 10.56%,     Avg Shots: 3.2
+Chelsea: 73.59%,     Avg Shots: 8.4
+Draw: 15.73%
+
+Aston Villa: 37.71%,     Avg Shots: 4.8
+Crystal Palace: 34.13%,     Avg Shots: 4.2
+Draw: 28.16%
+
+Fulham: 55.30%,     Avg Shots: 3.8
+Wolves: 19.68%,     Avg Shots: 4.2
+Draw: 25.02%
+
+Arsenal: 68.53%,     Avg Shots: 5.6
+Nott'm Forest: 8.80%,     Avg Shots: 4.2
+Draw: 22.66%
+
+Bournemouth: 42.77%,     Avg Shots: 6.4
+Brighton: 26.03%,     Avg Shots: 5.2
+Draw: 31.19%
+
+Everton: 29.31%,     Avg Shots: 2.6
+Brentford: 38.74%,     Avg Shots: 4.4
+Draw: 31.95%
+
+Man City: 56.77%,     Avg Shots: 5.0
+Tottenham: 20.21%,     Avg Shots: 5.4
+Draw: 23.00%
+
+Southampton: 3.21%,     Avg Shots: 2.6
+Liverpool: 83.78%,     Avg Shots: 7.0
+Draw: 12.95%
+
+Ipswich: 18.33%,     Avg Shots: 3.4
+Man United: 54.11%,     Avg Shots: 4.6
+Draw: 27.56%
+
+Newcastle: 67.65%,     Avg Shots: 7.0
+West Ham: 13.49%,     Avg Shots: 4.6
+Draw: 18.81%
+
+   2025-01-14 18
+*** inglaterra ***
+
+Brentford: 18.79%,     Avg Shots: 4.6
+Man City: 58.62%,     Avg Shots: 5.2
+Draw: 22.57%
+
+West Ham: 23.53%,     Avg Shots: 2.6
+Fulham: 49.83%,     Avg Shots: 5.0
+Draw: 26.64%
+
+Chelsea: 52.61%,     Avg Shots: 5.4
+Bournemouth: 21.56%,     Avg Shots: 7.0
+Draw: 25.82%
+
+Nott'm Forest: 21.52%,     Avg Shots: 5.0
+Liverpool: 50.39%,     Avg Shots: 8.4
+Draw: 28.09%
+
+Everton: 25.25%,     Avg Shots: 1.8
+Aston Villa: 41.19%,     Avg Shots: 3.6
+Draw: 33.56%
+
+Leicester: 19.81%,     Avg Shots: 2.6
+Crystal Palace: 53.65%,     Avg Shots: 6.2
+Draw: 26.54%
+
+Newcastle: 68.97%,     Avg Shots: 6.8
+Wolves: 12.81%,     Avg Shots: 4.6
+Draw: 18.16%
+
+Arsenal: 69.46%,     Avg Shots: 4.8
+Tottenham: 10.63%,     Avg Shots: 5.0
+Draw: 19.89%
+
+Ipswich: 24.85%,     Avg Shots: 3.2
+Brighton: 42.60%,     Avg Shots: 5.2
+Draw: 32.55%
+
+Man United: 72.54%,     Avg Shots: 3.6
+Southampton: 6.57%,     Avg Shots: 2.6
+Draw: 20.88%
+
+   2025-01-14 18
+*** italia ***
+
+Roma: 48.53%,     Avg Shots: 4.8
+Genoa: 22.50%,     Avg Shots: 2.6
+Draw: 28.97%
+
+Bologna: 59.91%,     Avg Shots: 6.0
+Monza: 14.94%,     Avg Shots: 3.0
+Draw: 25.15%
+
+Juventus: 40.54%,     Avg Shots: 6.0
+Milan: 30.60%,     Avg Shots: 6.0
+Draw: 28.87%
+
+Atalanta: 42.73%,     Avg Shots: 4.6
+Napoli: 28.41%,     Avg Shots: 4.2
+Draw: 28.86%
+
+Fiorentina: 49.58%,     Avg Shots: 3.0
+Torino: 21.07%,     Avg Shots: 3.2
+Draw: 29.35%
+
+Cagliari: 46.20%,     Avg Shots: 4.4
+Lecce: 22.35%,     Avg Shots: 3.2
+Draw: 31.46%
+
+Parma: 44.17%,     Avg Shots: 4.0
+Venezia: 27.73%,     Avg Shots: 3.0
+Draw: 28.10%
+
+Verona: 20.49%,     Avg Shots: 3.4
+Lazio: 55.55%,     Avg Shots: 4.8
+Draw: 23.95%
+
+Inter: 75.78%,     Avg Shots: 5.6
+Empoli: 6.41%,     Avg Shots: 5.2
+Draw: 17.80%
+
+Como: 32.12%,     Avg Shots: 5.4
+Udinese: 36.56%,     Avg Shots: 3.8
+Draw: 31.32%
+
+   2025-01-14 18
+*** primera ***
+
+Espanol: 54.21%,     Avg Shots: 2.8
+Valladolid: 19.42%,     Avg Shots: 1.2
+Draw: 26.37%
+
+Girona: 62.90%,     Avg Shots: 3.8
+Sevilla: 17.26%,     Avg Shots: 4.2
+Draw: 19.83%
+
+Leganes: 15.01%,     Avg Shots: 3.6
+Ath Madrid: 62.12%,     Avg Shots: 6.0
+Draw: 22.87%
+
+Betis: 51.01%,     Avg Shots: 4.0
+Alaves: 23.39%,     Avg Shots: 3.6
+Draw: 25.60%
+
+Getafe: 16.06%,     Avg Shots: 3.6
+Barcelona: 61.87%,     Avg Shots: 6.2
+Draw: 22.07%
+
+Celta: 29.93%,     Avg Shots: 4.6
+Ath Bilbao: 44.66%,     Avg Shots: 4.8
+Draw: 25.41%
+
+Real Madrid: 84.22%,     Avg Shots: 6.2
+Las Palmas: 5.42%,     Avg Shots: 4.4
+Draw: 10.22%
+
+Osasuna: 44.65%,     Avg Shots: 3.0
+Vallecano: 26.54%,     Avg Shots: 3.6
+Draw: 28.81%
+
+Valencia: 26.38%,     Avg Shots: 3.0
+Sociedad: 38.56%,     Avg Shots: 2.8
+Draw: 35.06%
+
+Villarreal: 58.19%,     Avg Shots: 4.8
+Mallorca: 19.78%,     Avg Shots: 2.4
+Draw: 22.03%
+
+   2025-01-23 19
+*** inglaterra ***
+
+Wolves: 6.01%,     Avg Shots: 4.8
+Arsenal: 78.84%,     Avg Shots: 4.6
+Draw: 15.08%
+
+Southampton: 5.12%,     Avg Shots: 3.6
+Newcastle: 80.00%,     Avg Shots: 5.2
+Draw: 14.82%
+
+Bournemouth: 34.71%,     Avg Shots: 6.8
+Nott'm Forest: 32.52%,     Avg Shots: 4.2
+Draw: 32.78%
+
+Brighton: 43.48%,     Avg Shots: 4.6
+Everton: 20.83%,     Avg Shots: 2.8
+Draw: 35.70%
+
+Liverpool: 83.04%,     Avg Shots: 8.2
+Ipswich: 4.12%,     Avg Shots: 3.2
+Draw: 12.73%
+
+Man City: 50.73%,     Avg Shots: 6.8
+Chelsea: 24.66%,     Avg Shots: 6.2
+Draw: 24.60%
+
+Crystal Palace: 41.69%,     Avg Shots: 6.2
+Brentford: 30.68%,     Avg Shots: 5.6
+Draw: 27.63%
+
+Tottenham: 71.71%,     Avg Shots: 3.8
+Leicester: 10.75%,     Avg Shots: 3.0
+Draw: 17.48%
+
+Aston Villa: 55.35%,     Avg Shots: 3.4
+West Ham: 21.46%,     Avg Shots: 1.8
+Draw: 23.18%
+
+Fulham: 40.84%,     Avg Shots: 4.8
+Man United: 29.83%,     Avg Shots: 3.6
+Draw: 29.33%
+
+   2025-01-23 19
+*** italia ***
+
+Torino: 43.76%,     Avg Shots: 3.0
+Cagliari: 24.66%,     Avg Shots: 4.2
+Draw: 31.57%
+
+Como: 15.33%,     Avg Shots: 5.6
+Atalanta: 64.47%,     Avg Shots: 5.0
+Draw: 20.18%
+
+Napoli: 37.36%,     Avg Shots: 4.0
+Juventus: 28.54%,     Avg Shots: 7.6
+Draw: 34.10%
+
+Empoli: 20.98%,     Avg Shots: 4.6
+Bologna: 48.85%,     Avg Shots: 6.6
+Draw: 30.17%
+
+Milan: 63.86%,     Avg Shots: 6.6
+Parma: 15.33%,     Avg Shots: 4.0
+Draw: 20.80%
+
+Udinese: 24.88%,     Avg Shots: 3.6
+Roma: 46.70%,     Avg Shots: 6.0
+Draw: 28.42%
+
+Lecce: 3.52%,     Avg Shots: 2.8
+Inter: 83.66%,     Avg Shots: 5.8
+Draw: 12.77%
+
+Lazio: 38.99%,     Avg Shots: 5.4
+Fiorentina: 33.48%,     Avg Shots: 3.4
+Draw: 27.53%
+
+Venezia: 37.16%,     Avg Shots: 3.0
+Verona: 32.87%,     Avg Shots: 2.8
+Draw: 29.98%
+
+Genoa: 41.88%,     Avg Shots: 3.2
+Monza: 25.30%,     Avg Shots: 3.0
+Draw: 32.82%
+
+   2025-01-23 19
+*** primera ***
+
+Las Palmas: 40.49%,     Avg Shots: 4.2
+Osasuna: 33.85%,     Avg Shots: 3.0
+Draw: 25.66%
+
+Mallorca: 37.06%,     Avg Shots: 2.2
+Betis: 32.80%,     Avg Shots: 4.0
+Draw: 30.15%
+
+Ath Madrid: 62.47%,     Avg Shots: 5.0
+Villarreal: 18.11%,     Avg Shots: 6.0
+Draw: 19.41%
+
+Sevilla: 57.99%,     Avg Shots: 4.4
+Espanol: 18.64%,     Avg Shots: 3.4
+Draw: 23.37%
+
+Valladolid: 4.91%,     Avg Shots: 1.8
+Real Madrid: 84.66%,     Avg Shots: 7.8
+Draw: 10.32%
+
+Vallecano: 29.78%,     Avg Shots: 4.0
+Girona: 42.88%,     Avg Shots: 3.4
+Draw: 27.34%
+
+Sociedad: 44.24%,     Avg Shots: 3.2
+Getafe: 17.55%,     Avg Shots: 3.8
+Draw: 38.21%
+
+Ath Bilbao: 66.14%,     Avg Shots: 4.6
+Leganes: 12.16%,     Avg Shots: 3.6
+Draw: 21.70%
+
+Barcelona: 80.93%,     Avg Shots: 5.6
+Valencia: 6.97%,     Avg Shots: 3.0
+Draw: 12.01%
+
+Alaves: 44.00%,     Avg Shots: 3.2
+Celta: 32.03%,     Avg Shots: 4.4
+Draw: 23.97%
+
+   2025-02-06 20
+*** inglaterra ***
+
+Brighton: 21.59%,     Avg Shots: 3.6
+Chelsea: 54.20%,     Avg Shots: 5.0
+Draw: 24.21%
+
+Leicester: 3.29%,     Avg Shots: 2.8
+Arsenal: 85.64%,     Avg Shots: 4.6
+Draw: 10.93%
+
+Aston Villa: 62.00%,     Avg Shots: 3.8
+Ipswich: 14.77%,     Avg Shots: 3.8
+Draw: 23.23%
+
+Fulham: 33.47%,     Avg Shots: 3.6
+Nott'm Forest: 36.31%,     Avg Shots: 4.8
+Draw: 30.22%
+
+Man City: 52.96%,     Avg Shots: 6.8
+Newcastle: 23.81%,     Avg Shots: 5.4
+Draw: 23.22%
+
+Southampton: 8.62%,     Avg Shots: 3.8
+Bournemouth: 70.87%,     Avg Shots: 6.8
+Draw: 20.50%
+
+West Ham: 27.14%,     Avg Shots: 3.2
+Brentford: 49.15%,     Avg Shots: 6.6
+Draw: 23.70%
+
+Crystal Palace: 43.86%,     Avg Shots: 5.0
+Everton: 21.69%,     Avg Shots: 3.4
+Draw: 34.46%
+
+Liverpool: 79.11%,     Avg Shots: 6.8
+Wolves: 7.00%,     Avg Shots: 5.2
+Draw: 13.76%
+
+Tottenham: 48.31%,     Avg Shots: 4.0
+Man United: 26.69%,     Avg Shots: 3.4
+Draw: 25.00%
+
+   2025-02-06 20
+*** italia ***
+
+Parma: 49.36%,     Avg Shots: 5.2
+Lecce: 21.87%,     Avg Shots: 3.6
+Draw: 28.77%
+
+Monza: 35.78%,     Avg Shots: 1.8
+Verona: 33.22%,     Avg Shots: 3.4
+Draw: 31.01%
+
+Udinese: 45.11%,     Avg Shots: 3.8
+Venezia: 23.62%,     Avg Shots: 2.2
+Draw: 31.27%
+
+Atalanta: 57.73%,     Avg Shots: 5.4
+Torino: 15.53%,     Avg Shots: 3.6
+Draw: 26.73%
+
+Bologna: 59.34%,     Avg Shots: 6.6
+Como: 15.97%,     Avg Shots: 4.4
+Draw: 24.68%
+
+Juventus: 58.39%,     Avg Shots: 6.8
+Empoli: 13.59%,     Avg Shots: 3.2
+Draw: 28.02%
+
+Fiorentina: 52.94%,     Avg Shots: 3.8
+Genoa: 19.13%,     Avg Shots: 3.4
+Draw: 27.93%
+
+Milan: 17.95%,     Avg Shots: 5.8
+Inter: 58.25%,     Avg Shots: 6.0
+Draw: 23.79%
+
+Roma: 27.86%,     Avg Shots: 5.6
+Napoli: 41.55%,     Avg Shots: 3.0
+Draw: 30.59%
+
+Cagliari: 20.06%,     Avg Shots: 3.8
+Lazio: 54.22%,     Avg Shots: 4.8
+Draw: 25.72%
+
+   2025-02-06 20
+*** primera ***
+
+Girona: 54.75%,     Avg Shots: 4.2
+Getafe: 18.93%,     Avg Shots: 3.4
+Draw: 26.32%
+
+Leganes: 36.03%,     Avg Shots: 3.0
+Alaves: 33.85%,     Avg Shots: 2.2
+Draw: 30.12%
+
+Osasuna: 16.96%,     Avg Shots: 3.0
+Real Madrid: 63.62%,     Avg Shots: 7.4
+Draw: 19.41%
+
+Ath Madrid: 70.77%,     Avg Shots: 5.2
+Celta: 11.51%,     Avg Shots: 3.8
+Draw: 17.70%
+
+Villarreal: 71.94%,     Avg Shots: 6.0
+Valencia: 12.30%,     Avg Shots: 3.0
+Draw: 15.72%
+
+Espanol: 21.13%,     Avg Shots: 2.8
+Ath Bilbao: 51.19%,     Avg Shots: 4.6
+Draw: 27.69%
+
+Valladolid: 20.46%,     Avg Shots: 2.0
+Sevilla: 54.43%,     Avg Shots: 4.2
+Draw: 25.11%
+
+Mallorca: 42.85%,     Avg Shots: 2.0
+Las Palmas: 27.57%,     Avg Shots: 4.4
+Draw: 29.58%
+
+Betis: 40.73%,     Avg Shots: 3.8
+Sociedad: 27.67%,     Avg Shots: 2.8
+Draw: 31.60%
+
+Barcelona: 76.17%,     Avg Shots: 6.2
+Vallecano: 8.91%,     Avg Shots: 4.4
+Draw: 14.89%
+
+   2025-02-06 20
+*** italia ***
+
+Como: 17.73%,     Avg Shots: 4.4
+Juventus: 55.03%,     Avg Shots: 6.8
+Draw: 27.23%
+
+Verona: 10.75%,     Avg Shots: 3.4
+Atalanta: 71.75%,     Avg Shots: 5.4
+Draw: 17.46%
+
+Empoli: 20.90%,     Avg Shots: 3.2
+Milan: 50.11%,     Avg Shots: 5.8
+Draw: 28.98%
+
+Torino: 37.12%,     Avg Shots: 3.6
+Genoa: 25.67%,     Avg Shots: 3.4
+Draw: 37.21%
+
+Venezia: 17.76%,     Avg Shots: 2.2
+Roma: 56.00%,     Avg Shots: 5.6
+Draw: 26.24%
+
+Cagliari: 40.50%,     Avg Shots: 3.8
+Parma: 33.21%,     Avg Shots: 5.2
+Draw: 26.29%
+
+Lazio: 60.95%,     Avg Shots: 4.8
+Monza: 13.62%,     Avg Shots: 1.8
+Draw: 25.43%
+
+Lecce: 10.87%,     Avg Shots: 3.6
+Bologna: 64.51%,     Avg Shots: 6.6
+Draw: 24.62%
+
+Napoli: 60.00%,     Avg Shots: 3.0
+Udinese: 13.13%,     Avg Shots: 3.8
+Draw: 26.87%
+
+Inter: 66.02%,     Avg Shots: 6.0
+Fiorentina: 13.17%,     Avg Shots: 3.8
+Draw: 20.79%
+
+   2025-02-06 20
+*** primera ***
+
+Vallecano: 65.32%,     Avg Shots: 4.4
+Valladolid: 11.61%,     Avg Shots: 2.0
+Draw: 23.07%
+
+Celta: 45.14%,     Avg Shots: 3.8
+Betis: 31.03%,     Avg Shots: 3.8
+Draw: 23.82%
+
+Ath Bilbao: 51.90%,     Avg Shots: 4.6
+Girona: 23.84%,     Avg Shots: 4.2
+Draw: 24.25%
+
+Las Palmas: 26.56%,     Avg Shots: 4.4
+Villarreal: 52.68%,     Avg Shots: 6.0
+Draw: 20.75%
+
+Real Madrid: 51.35%,     Avg Shots: 7.4
+Ath Madrid: 24.31%,     Avg Shots: 5.2
+Draw: 24.34%
+
+Alaves: 40.81%,     Avg Shots: 2.2
+Getafe: 26.08%,     Avg Shots: 3.4
+Draw: 33.11%
+
+Valencia: 42.42%,     Avg Shots: 3.0
+Leganes: 28.01%,     Avg Shots: 3.0
+Draw: 29.57%
+
+Sociedad: 49.89%,     Avg Shots: 2.8
+Espanol: 18.95%,     Avg Shots: 2.8
+Draw: 31.16%
+
+Sevilla: 18.85%,     Avg Shots: 4.2
+Barcelona: 62.20%,     Avg Shots: 6.2
+Draw: 18.93%
+
+Mallorca: 37.71%,     Avg Shots: 2.0
+Osasuna: 32.36%,     Avg Shots: 3.0
+Draw: 29.93%
+
+   2025-02-13 18
+*** inglaterra ***
+
+Brighton: 21.65%,     Avg Shots: 3.6
+Chelsea: 54.09%,     Avg Shots: 5.0
+Draw: 24.26%
+
+Leicester: 3.32%,     Avg Shots: 2.8
+Arsenal: 85.55%,     Avg Shots: 4.6
+Draw: 11.00%
+
+Man City: 53.01%,     Avg Shots: 6.8
+Newcastle: 23.75%,     Avg Shots: 5.4
+Draw: 23.23%
+
+Southampton: 8.65%,     Avg Shots: 3.8
+Bournemouth: 70.76%,     Avg Shots: 6.8
+Draw: 20.58%
+
+West Ham: 27.21%,     Avg Shots: 3.2
+Brentford: 49.04%,     Avg Shots: 6.6
+Draw: 23.74%
+
+Fulham: 33.53%,     Avg Shots: 3.6
+Nott'm Forest: 36.22%,     Avg Shots: 4.8
+Draw: 30.25%
+
+Aston Villa: 62.07%,     Avg Shots: 3.8
+Ipswich: 14.70%,     Avg Shots: 3.8
+Draw: 23.22%
+
+Crystal Palace: 43.29%,     Avg Shots: 5.0
+Everton: 22.49%,     Avg Shots: 4.0
+Draw: 34.23%
+
+Liverpool: 78.63%,     Avg Shots: 6.4
+Wolves: 7.35%,     Avg Shots: 5.2
+Draw: 13.89%
+
+Tottenham: 48.39%,     Avg Shots: 4.0
+Man United: 26.59%,     Avg Shots: 3.4
+Draw: 25.02%
+
+   2025-02-13 18
+*** italia ***
+
+Bologna: 46.27%,     Avg Shots: 5.4
+Torino: 20.46%,     Avg Shots: 3.4
+Draw: 33.27%
+
+Atalanta: 77.49%,     Avg Shots: 6.4
+Cagliari: 7.65%,     Avg Shots: 3.6
+Draw: 14.76%
+
+Lazio: 29.93%,     Avg Shots: 5.4
+Napoli: 38.27%,     Avg Shots: 3.0
+Draw: 31.79%
+
+Milan: 70.16%,     Avg Shots: 4.6
+Verona: 10.77%,     Avg Shots: 4.2
+Draw: 19.05%
+
+Fiorentina: 61.81%,     Avg Shots: 4.6
+Como: 15.12%,     Avg Shots: 4.8
+Draw: 23.06%
+
+Monza: 40.42%,     Avg Shots: 1.6
+Lecce: 24.53%,     Avg Shots: 3.2
+Draw: 35.05%
+
+Udinese: 38.94%,     Avg Shots: 3.4
+Empoli: 27.06%,     Avg Shots: 2.0
+Draw: 34.00%
+
+Parma: 19.22%,     Avg Shots: 4.8
+Roma: 57.43%,     Avg Shots: 5.6
+Draw: 23.34%
+
+Juventus: 24.40%,     Avg Shots: 5.6
+Inter: 46.49%,     Avg Shots: 5.6
+Draw: 29.10%
+
+Genoa: 46.16%,     Avg Shots: 3.6
+Venezia: 20.60%,     Avg Shots: 2.2
+Draw: 33.24%
+
+   2025-02-13 18
+*** primera ***
+
+Girona: 51.95%,     Avg Shots: 3.0
+Getafe: 20.71%,     Avg Shots: 3.0
+Draw: 27.34%
+
+Leganes: 34.58%,     Avg Shots: 3.2
+Alaves: 34.74%,     Avg Shots: 2.4
+Draw: 30.68%
+
+Osasuna: 17.23%,     Avg Shots: 3.2
+Real Madrid: 63.07%,     Avg Shots: 7.6
+Draw: 19.70%
+
+Ath Madrid: 71.12%,     Avg Shots: 4.6
+Celta: 11.35%,     Avg Shots: 3.6
+Draw: 17.52%
+
+Villarreal: 70.73%,     Avg Shots: 5.0
+Valencia: 12.97%,     Avg Shots: 2.8
+Draw: 16.28%
+
+Espanol: 19.72%,     Avg Shots: 2.6
+Ath Bilbao: 53.50%,     Avg Shots: 5.8
+Draw: 26.78%
+
+Valladolid: 20.81%,     Avg Shots: 2.4
+Sevilla: 53.62%,     Avg Shots: 4.0
+Draw: 25.57%
+
+Mallorca: 42.98%,     Avg Shots: 2.0
+Las Palmas: 27.21%,     Avg Shots: 4.4
+Draw: 29.81%
+
+Betis: 40.55%,     Avg Shots: 3.8
+Sociedad: 28.59%,     Avg Shots: 3.2
+Draw: 30.86%
+
+Barcelona: 76.90%,     Avg Shots: 6.6
+Vallecano: 8.45%,     Avg Shots: 4.8
+Draw: 14.62%
+

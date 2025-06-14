@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files
+#results/
+#*.log
+#*.txt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Excel backups
+#*.xls?~
+
+# Environment files
+environment.yml.lock
+
+# VSCode settings
+.vscode/
+
+# OS-specific folders
+*.swp
+*.swo
